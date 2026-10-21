@@ -6,6 +6,14 @@ I take software products from the first conversation to production, and I stay a
 
 ---
 
+### Tech stack
+
+<p>
+<img src="icons/typescript.svg" alt="TypeScript" title="TypeScript" height="32">&nbsp;&nbsp;<img src="icons/javascript.svg" alt="JavaScript" title="JavaScript" height="32">&nbsp;&nbsp;<img src="icons/swift.svg" alt="Swift" title="Swift" height="32">&nbsp;&nbsp;<img src="icons/rust.svg" alt="Rust" title="Rust" height="32">&nbsp;&nbsp;<img src="icons/python.svg" alt="Python" title="Python" height="32">&nbsp;&nbsp;<img src="icons/php.svg" alt="PHP" title="PHP" height="32">&nbsp;&nbsp;<img src="icons/nextdotjs.svg" alt="Next.js" title="Next.js" height="32">&nbsp;&nbsp;<img src="icons/react.svg" alt="React" title="React" height="32">&nbsp;&nbsp;<img src="icons/svelte.svg" alt="Svelte" title="Svelte" height="32">&nbsp;&nbsp;<img src="icons/vuedotjs.svg" alt="Vue.js" title="Vue.js" height="32">&nbsp;&nbsp;<img src="icons/astro.svg" alt="Astro" title="Astro" height="32">&nbsp;&nbsp;<img src="icons/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32">&nbsp;&nbsp;<img src="icons/tauri.svg" alt="Tauri" title="Tauri" height="32">&nbsp;&nbsp;<img src="icons/electron.svg" alt="Electron" title="Electron" height="32">&nbsp;&nbsp;<img src="icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="32">&nbsp;&nbsp;<img src="icons/sqlite.svg" alt="SQLite" title="SQLite" height="32">&nbsp;&nbsp;<img src="icons/prisma.svg" alt="Prisma" title="Prisma" height="32">&nbsp;&nbsp;<img src="icons/supabase.svg" alt="Supabase" title="Supabase" height="32">&nbsp;&nbsp;<img src="icons/docker.svg" alt="Docker" title="Docker" height="32">&nbsp;&nbsp;<img src="icons/vercel.svg" alt="Vercel" title="Vercel" height="32">&nbsp;&nbsp;<img src="icons/wordpress.svg" alt="WordPress" title="WordPress" height="32">&nbsp;&nbsp;<img src="icons/openai.svg" alt="OpenAI" title="OpenAI" height="32">&nbsp;&nbsp;<img src="icons/claude.svg" alt="Claude" title="Claude" height="32">
+</p>
+
+---
+
 ### Philosophy
 
 - **Software should give power back to its users.** People and small companies should own their tools and their data: local-first when possible, no lock-in, no account they did not ask for.
@@ -26,20 +34,6 @@ I take software products from the first conversation to production, and I stay a
 | **Build** | Full-stack web apps, native macOS and iOS apps, integrations, automated tests |
 | **Ship** | Deployment on Vercel or self-hosted servers with Docker, signed and notarized apps, data migration |
 | **Run** | Training, support, monitoring, iterations based on feedback |
-
----
-
-### Tech stack
-
-| Area | Tools |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, Swift, Rust, Python, PHP, SQL |
-| **Web** | Next.js, React, Svelte, Vue, Astro, Express, tRPC, Tailwind CSS |
-| **Native apps** | SwiftUI, AppKit, Tauri, Electron, GPUI |
-| **Data** | PostgreSQL, SQLite, Prisma, Drizzle, Supabase |
-| **AI and automation** | whisper.cpp, OpenAI and Anthropic APIs, local models, MCP servers, Python pipelines |
-| **Business tools** | Custom CRMs, WordPress plugins, Sellsy, Twilio |
-| **Delivery** | Git, Docker, Vercel, self-hosted servers, Playwright, GitHub Releases |
 
 ---
 
